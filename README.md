@@ -15,7 +15,7 @@ This repository contains Python scripts for:
 
 - To analyze web server logs:
   ```bash
-  python Log_File_Analyzer.py
+  python Log-File-Analyzer.py
   ```
 
 ## License
